@@ -1,0 +1,8 @@
+{
+  "include": ["index.ts"],
+  "compilerOptions": {
+    "composite": true,
+    "lib": ["ESNext"],
+    "module": "NodeNext"
+  }
+}

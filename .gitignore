@@ -1,0 +1,5 @@
+node_modules/
+test/
+.vscode/
+index.js
+index.d.ts
